@@ -5,8 +5,9 @@ This repository contains:
 - Python solution using recursion and backtracking
 
 ## Files
-- question.md → problem statement
-- solution.py → Python implementation
+01_README.md
+02_question.md
+03_solution.py
 
 ## How to Run
 ```bash
